@@ -1,0 +1,28 @@
+{
+  "name": "jsday",
+  "version": "1.0.0",
+  "description": "JS Day Demo",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.4",
+    "gulp-amd-optimizer": "0.4.0",
+    "gulp-bower": "0.0.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-ignore": "^2.0.1",
+    "gulp-requirejs": "^0.1.3",
+    "gulp-mocha": "^2.2.0",
+    "gulp-minify": "^0.0.11",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sourcemaps": "^1.6.0",
+    "mocha-jsdom": "^1.1.0",
+    "ramda": "^0.21.0",
+    "requirejs": "^2.2.0"
+  }
+}
