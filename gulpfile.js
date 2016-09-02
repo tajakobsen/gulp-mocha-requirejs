@@ -4,7 +4,6 @@ var sass = require('gulp-ruby-sass');
 var concat = require('gulp-concat');
 var mocha = require('gulp-mocha');
 var minify = require('gulp-minify');
-var autoprefixer = require('gulp-autoprefixer');
 var cssnano = require('gulp-cssnano');
 var rename = require('gulp-rename');
 var notify = require('gulp-notify');
